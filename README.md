@@ -17,4 +17,4 @@ The dataset used for this project contains various features that influence bike 
 - `data/`: Contains the dataset and any data preprocessing scripts.
 - `notebooks/`: Jupyter Notebooks with data analysis, model training, and evaluation.
 - `models/`: Saved models and related code.
-- `README.md`: Project overview and instructions.
+- `README.md`: Project overview and instructions..
