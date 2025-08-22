@@ -10,11 +10,12 @@ The goal of this project is to build machine learning models to predict the numb
 
 ## Dataset
 
-The dataset used for this project contains various features that influence bike rental counts, such as weather conditions, date, and time. The data preprocessing and feature engineering steps are documented in the Jupyter Notebooks.
+The dataset used for this project contains various features that influence bike rental counts, such as weather conditions, date, and time. The data preprocessing and feature engineering steps are documented in the Jupyter Notebooks..
 
 ## Project Structure
 
 - `data/`: Contains the dataset and any data preprocessing scripts.
 - `notebooks/`: Jupyter Notebooks with data analysis, model training, and evaluation.
 - `models/`: Saved models and related code.
-- `README.md`: Project overview and instructions..
+- `README.md`: Project overview and instructions..,
+-- this is test line
